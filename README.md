@@ -1,5 +1,6 @@
+![shophere-banner](https://github.com/nomenklatur/shophere/assets/88763669/14ee5380-14d6-4c07-accf-3633312813a2)
 
-![Alt text](shophere-banner-1.png)
+
 
 # ShopHere
 > ShopHere is a web application designed to help small, local brick-and-mortar businesses showcase their multiple store locations and make it easy for customers to find them.
